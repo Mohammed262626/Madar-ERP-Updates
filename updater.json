@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Added Auto-Updater and fixed bugs!",
+  "pub_date": "2026-07-09T13:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "PASTE_THE_CONTENTS_OF_THE_.SIG_FILE_HERE",
+      "url": "https://github.com/username/Madar-ERP-Updates/releases/download/v1.0.1/Madar_ERP_1.0.1_x64_en-US.nsis.zip"
+    }
+  }
+}
